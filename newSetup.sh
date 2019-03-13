@@ -28,6 +28,7 @@ apt install vanilla-gnome-desktop
 apt install libcairo2-dev
 snap install --clasic slack
 snap install discord
+snap install spotify
 echo Main repository packages installed
 ##getting vscode, vbox latest and installing them (also installing displaylink drivers included)
 ##oh and get my background for me
