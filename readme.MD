@@ -8,7 +8,7 @@ core/thread count is going to match up with it or not
 
 ## Installed packages
 
-'''
+```
 chromium-browser
 conky-all
 discord
@@ -24,4 +24,4 @@ vanilla-gnome-desktop
 virtualbox
 VSCode
 conky-prime (system monitor overly)
-'''
+```
